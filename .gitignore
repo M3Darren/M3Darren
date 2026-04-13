@@ -1,0 +1,24 @@
+# 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# pytest 缓存
+.pytest_cache/
+.coverage
+htmlcov/
+
+# 环境变量
+.env
+.env.local
+.env.*.local
+
+# 编辑器
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 系统文件
+.DS_Store
